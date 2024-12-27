@@ -10,4 +10,4 @@ This is a Python-based scientific calculator built using the Tkinter library. It
   - Logarithmic functions: Log, Log2, Log10
   - Exponential functions: Exp, Expm1
   - Modulus, Power, and more
-- **User Interface**: A dark-themed GUI that offers both standard and scientific calculator modes.
+
